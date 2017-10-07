@@ -7,9 +7,9 @@ const API_KEY = 'AIzaSyCsc_A7SxbVmgH09TfC4EEniutEi4RO24o';
 // Create a new component. This component should produce some HTML
 const App = () => {
   return (
-  <div>
-    <SearchBar />
-  </div>
+    <div>
+      <SearchBar />
+    </div>
   );
 }
 
